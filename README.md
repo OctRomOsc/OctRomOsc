@@ -1,0 +1,26 @@
+### About me
+
+I am currently working on website design/management, web/mobile app development, ETL automation and data analysis projects for a variety of clients, while using my spare time to work on interesting Machine Learning projects (primarily in the life sciences/biomedical fields). I enjoy working on projects where I am unfamiliar with a framework/programming language, and can start from scratch by learning from team members - then do whatever it takes to catch up and make meaningful contributions. However, when feasible, I embrace the challenge of deep-diving and figuring it all out solo just as much. Likewise, I also enjoy sharing my expertise in the languages and tools I am well-versed in.
+
+<!--
+**OctRomOsc/OctRomOsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### Recent Roles
+
+<!-- writing starts -->
+* [Full-Stack Engineer/Data Analytics Consultant] - June 2023 - Present
+* [Data Science Consultant/Automation Engineer] - November 2021 - November 2022
+* [Data Scientist] - May 2019 - August 2020
+<!-- writing ends -->
